@@ -9,5 +9,5 @@ As this program was quickly thrown together for a summer research project when I
 it is poorly structured and documented. Nonetheless, this program removed a significant degree of manual input necessary
 to use the underlying IDL code in its original form, and managed to reduce spectrum analysis time by approximately 50%. I still occasionally use this program when I have to analyze the odd spectrum.
 
-I've added this program to my github as a part of my portfolio and to establish the canon version of this program in case
+I've added this program to my github as a part of my portfolio and to establish a canonical version of this program in case
 I need to use it in the future. 
